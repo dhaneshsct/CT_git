@@ -1,1 +1,3 @@
 Inside f1.txt
+
+Extra text added in f1.txt
